@@ -1,2 +1,3 @@
 # orca-modules
-Orca modules library of patterns and compositions.
+Orca modules library of patterns and compositions for [ M ] Studio.
+
